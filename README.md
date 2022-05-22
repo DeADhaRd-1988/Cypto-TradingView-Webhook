@@ -52,6 +52,8 @@ Last, set up your the webhook format on TradingView, it will look like json, her
 
     {"pair": "BTC-PERP", "side": "buy", "size": "0.01"}
 
+Не забудьте использовать  app.env = "development"
+
 Please make sure everthing is RIGHT, or you may lose your money！
 
 Other than that, it should be good to go! If you have any questions just ask or create an issue on github！
